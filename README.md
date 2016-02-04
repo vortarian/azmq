@@ -19,7 +19,7 @@ Building requires a recent version of CMake (2.8 or later), and a C++ compiler
 which supports C++11. Currently this has been tested with -
 * Xcode 5.1 on OS X 10.8
 * Xcode 6 on OS X 10.9
-* Xcode 6.1 on OS X 10.10
+* Xcode 6.4 on OS X 10.10
 * GCC 4.8 on Arch Linux and Ubuntu
 * GCC 4.9 on Ubuntu
 * Microsoft Visual Studio 2013 on Windows Server 2008 R2
@@ -85,7 +85,7 @@ Further examples may be found in doc/examples
 
 ## Build status
 
-[AZMQ build status](https://78.46.71.115/project.html?projectId=Azmq&guest=1)
+[AZMQ build status](https://136.243.151.173:4433/project.html?projectId=Azmq&guest=1)
 
 ## Copying
 
